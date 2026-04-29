@@ -1,0 +1,5 @@
+model,optimal_threshold,expected_cost_per_customer,net_value_per_1000_customers,constrained_threshold,constrained_flag_rate,constrained_net_value_per_1000
+Logistic Regression,0.11,27.06,371042.65,0.77,0.1962,184123.22
+MLP,0.07,29.19,368909.95,0.79,0.1915,182891.0
+CatBoost,0.03,27.96,370142.18,0.54,0.1886,175687.2
+XGBoost,0.09,27.49,370616.11,0.75,0.1972,189952.61
