@@ -13,8 +13,6 @@
 
 Hello everyone, I'm **Sree Vathsa**, and along with my teammates **Srinidhi Shivashankar** and **Deekshith Anantha**, we present our project — **Cost-Aware Customer Churn Prediction for the Telecom Industry**.
 
-This is poster **NNDL dot 39**, submitted for ECE 525, the Neural Networks and Deep Learning course at NC State.
-
 In the next five minutes I'll walk you through what problem we tackled, how we approached it with four different models, and the one finding that surprised us most — that the *threshold* you pick at deployment ends up mattering more than the *model* you train. `[pause]`
 
 ---
@@ -87,7 +85,7 @@ So our **conclusions**: CatBoost is the strongest classifier; the custom MLP is 
 
 ## 5:00 — Closing *(face camera again)*
 
-Thank you for your time. We'd love to discuss this with you in person at the symposium. *(short pause)* This is Team 39, ECE 525, AI Student Symposium 2026.
+Thank you for your time. This is Team 39, ECE 525, AI Student Symposium 2026.
 
 ---
 
