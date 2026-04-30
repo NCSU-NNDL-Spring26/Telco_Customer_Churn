@@ -1,8 +1,8 @@
 feature,original_value,perturbed_value
-Contract,Month-to-month,One year
+Contract,Month-to-month,Month-to-month
 Dependents,No,No
 DeviceProtection,No,No
-InternetService,Fiber optic,Fiber optic
+InternetService,Fiber optic,No
 MultipleLines,Yes,Yes
 OnlineBackup,No,No
 OnlineSecurity,No,No
@@ -14,4 +14,4 @@ StreamingMovies,Yes,Yes
 StreamingTV,Yes,Yes
 TechSupport,No,No
 gender,Male,Male
-Predicted Churn Probability,0.9384,0.8060
+Predicted Churn Probability,0.9323,0.8228
