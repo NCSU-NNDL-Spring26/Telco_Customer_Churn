@@ -77,6 +77,7 @@ Numbers from the two notebooks are **not** directly comparable row-for-row becau
 - Prefer small, focused commits; avoid committing secrets or huge binary logs.  
 - Coordinate poster / video / symposium assets per the course schedule.
 
+
 ---
 
 ## License / data
